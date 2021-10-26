@@ -5,6 +5,7 @@ public class Die{
   int sides;
   int value;
   int coin;
+  int horse;
 
   static Random rollDie = new Random();
 
