@@ -4,7 +4,8 @@ public class Die{
 
   int sides;
   int value;
-  
+  int coin;
+
   static Random rollDie = new Random();
 
   public Die(int sides){
